@@ -1,2 +1,1 @@
-# ju
-javascript util
+# Javascript util
